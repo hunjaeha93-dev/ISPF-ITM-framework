@@ -1,0 +1,931 @@
+[
+    {
+        "timestamp": "2025-12-15T09:17:25.433229",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 10,
+        "file_path": "/var/data/project_docs",
+        "hour": 13,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-16T14:43:25.433255",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 10,
+        "file_path": "/var/data/project_docs",
+        "hour": 13,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-17T22:26:25.433262",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 10,
+        "file_path": "/var/data/project_docs",
+        "hour": 18,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-12T13:28:25.433265",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 5,
+        "file_path": "/var/data/project_docs",
+        "hour": 16,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-17T22:53:25.433269",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 10,
+        "file_path": "/var/data/project_docs",
+        "hour": 16,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-16T15:37:25.433271",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 10,
+        "file_path": "/var/data/project_docs",
+        "hour": 16,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-19T07:31:25.433274",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 9,
+        "file_path": "/var/data/project_docs",
+        "hour": 12,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-15T08:13:25.433277",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 5,
+        "file_path": "/var/data/project_docs",
+        "hour": 14,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-12T21:26:25.433282",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 7,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-14T01:54:25.433285",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 6,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-12T14:57:25.433288",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 5,
+        "file_path": "/var/data/project_docs",
+        "hour": 15,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-17T12:20:25.433291",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 9,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-13T17:53:25.433297",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 10,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-12T14:11:25.433300",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 1,
+        "file_path": "/var/data/project_docs",
+        "hour": 14,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-15T19:09:25.433302",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 1,
+        "file_path": "/var/data/project_docs",
+        "hour": 9,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-16T07:46:25.433305",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 1,
+        "file_path": "/var/data/project_docs",
+        "hour": 10,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-19T07:00:25.433308",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 4,
+        "file_path": "/var/data/project_docs",
+        "hour": 11,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-14T00:16:25.433311",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 2,
+        "file_path": "/var/data/project_docs",
+        "hour": 18,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-15T23:10:25.433314",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 7,
+        "file_path": "/var/data/project_docs",
+        "hour": 12,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-17T08:24:25.433319",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 7,
+        "file_path": "/var/data/project_docs",
+        "hour": 9,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-16T14:03:25.433322",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 7,
+        "file_path": "/var/data/project_docs",
+        "hour": 12,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-14T00:18:25.433325",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 1,
+        "file_path": "/var/data/project_docs",
+        "hour": 10,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-19T06:36:25.433327",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 4,
+        "file_path": "/var/data/project_docs",
+        "hour": 16,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-17T22:19:25.433330",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 7,
+        "file_path": "/var/data/project_docs",
+        "hour": 11,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-18T05:24:25.433333",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 5,
+        "file_path": "/var/data/project_docs",
+        "hour": 10,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-14T05:23:25.433336",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 3,
+        "file_path": "/var/data/project_docs",
+        "hour": 15,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-15T01:14:25.433339",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 8,
+        "file_path": "/var/data/project_docs",
+        "hour": 12,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-16T06:56:25.433341",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 1,
+        "file_path": "/var/data/project_docs",
+        "hour": 18,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-16T03:28:25.433344",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 7,
+        "file_path": "/var/data/project_docs",
+        "hour": 11,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-17T12:59:25.433347",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 2,
+        "file_path": "/var/data/project_docs",
+        "hour": 11,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-14T22:54:25.433350",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 3,
+        "file_path": "/var/data/project_docs",
+        "hour": 10,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-14T08:27:25.433353",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 3,
+        "file_path": "/var/data/project_docs",
+        "hour": 15,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-18T00:44:25.433356",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 1,
+        "file_path": "/var/data/project_docs",
+        "hour": 13,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-18T05:28:25.433359",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 10,
+        "file_path": "/var/data/project_docs",
+        "hour": 18,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-15T18:56:25.433362",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 10,
+        "file_path": "/var/data/project_docs",
+        "hour": 13,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-16T23:47:25.433364",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 2,
+        "file_path": "/var/data/project_docs",
+        "hour": 13,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-13T22:37:25.433367",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 3,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-13T00:01:25.433370",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 2,
+        "file_path": "/var/data/project_docs",
+        "hour": 18,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-17T12:39:25.433373",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 1,
+        "file_path": "/var/data/project_docs",
+        "hour": 11,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-14T14:39:25.433376",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 6,
+        "file_path": "/var/data/project_docs",
+        "hour": 10,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-14T13:45:25.433379",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 3,
+        "file_path": "/var/data/project_docs",
+        "hour": 15,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-18T07:22:25.433382",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 10,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-16T20:31:25.433385",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 1,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-17T16:51:25.433388",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 5,
+        "file_path": "/var/data/project_docs",
+        "hour": 13,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-15T19:33:25.433391",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 9,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-15T18:23:25.433394",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 8,
+        "file_path": "/var/data/project_docs",
+        "hour": 18,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-16T12:36:25.433396",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 5,
+        "file_path": "/var/data/project_docs",
+        "hour": 11,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-19T07:49:25.433399",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 4,
+        "file_path": "/var/data/project_docs",
+        "hour": 14,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-18T20:56:25.433402",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 4,
+        "file_path": "/var/data/project_docs",
+        "hour": 12,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-13T02:17:25.433405",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 2,
+        "file_path": "/var/data/project_docs",
+        "hour": 13,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-17T03:38:25.433407",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 7,
+        "file_path": "/var/data/project_docs",
+        "hour": 15,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-16T18:09:25.433411",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 5,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-18T03:54:25.433414",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 8,
+        "file_path": "/var/data/project_docs",
+        "hour": 9,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-13T11:23:25.433417",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 9,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-17T16:43:25.433420",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 7,
+        "file_path": "/var/data/project_docs",
+        "hour": 15,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-14T06:57:25.433423",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 5,
+        "file_path": "/var/data/project_docs",
+        "hour": 12,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-14T15:28:25.433426",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 1,
+        "file_path": "/var/data/project_docs",
+        "hour": 18,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-15T06:54:25.433429",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 2,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-18T09:47:25.433431",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 1,
+        "file_path": "/var/data/project_docs",
+        "hour": 18,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-15T07:20:25.433434",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 7,
+        "file_path": "/var/data/project_docs",
+        "hour": 18,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-14T20:39:25.433437",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 5,
+        "file_path": "/var/data/project_docs",
+        "hour": 13,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-16T11:51:25.433439",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 4,
+        "file_path": "/var/data/project_docs",
+        "hour": 11,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-16T03:21:25.433443",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 9,
+        "file_path": "/var/data/project_docs",
+        "hour": 13,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-15T06:02:25.433446",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 3,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-18T10:41:25.433449",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 4,
+        "file_path": "/var/data/project_docs",
+        "hour": 12,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-16T01:54:25.433451",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 6,
+        "file_path": "/var/data/project_docs",
+        "hour": 9,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-18T13:58:25.433454",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 6,
+        "file_path": "/var/data/project_docs",
+        "hour": 15,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-18T22:27:25.433457",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 3,
+        "file_path": "/var/data/project_docs",
+        "hour": 10,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-15T02:46:25.433460",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 5,
+        "file_path": "/var/data/project_docs",
+        "hour": 13,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-14T02:09:25.433463",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 5,
+        "file_path": "/var/data/project_docs",
+        "hour": 16,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-16T00:48:25.433466",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 4,
+        "file_path": "/var/data/project_docs",
+        "hour": 12,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-13T02:35:25.433469",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 6,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-13T11:23:25.433472",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 1,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-13T13:41:25.433475",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 8,
+        "file_path": "/var/data/project_docs",
+        "hour": 11,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-18T23:29:25.433478",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 7,
+        "file_path": "/var/data/project_docs",
+        "hour": 16,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-19T03:29:25.433481",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 5,
+        "file_path": "/var/data/project_docs",
+        "hour": 9,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-15T02:46:25.433484",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 7,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-18T00:31:25.433487",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 4,
+        "file_path": "/var/data/project_docs",
+        "hour": 9,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-18T14:14:25.433490",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 4,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-19T04:16:25.433493",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 4,
+        "file_path": "/var/data/project_docs",
+        "hour": 12,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-17T13:02:25.433495",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 6,
+        "file_path": "/var/data/project_docs",
+        "hour": 9,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-17T04:04:25.433498",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 1,
+        "file_path": "/var/data/project_docs",
+        "hour": 9,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-15T07:42:25.433501",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 7,
+        "file_path": "/var/data/project_docs",
+        "hour": 12,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-17T06:03:25.433503",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 6,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-18T11:47:25.433506",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 1,
+        "file_path": "/var/data/project_docs",
+        "hour": 13,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-13T23:35:25.433509",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 10,
+        "file_path": "/var/data/project_docs",
+        "hour": 17,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-15T06:28:25.433512",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 6,
+        "file_path": "/var/data/project_docs",
+        "hour": 18,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-18T01:39:25.433515",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 3,
+        "file_path": "/var/data/project_docs",
+        "hour": 15,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-13T19:09:25.433518",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 6,
+        "file_path": "/var/data/project_docs",
+        "hour": 11,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-14T20:29:25.433520",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 8,
+        "file_path": "/var/data/project_docs",
+        "hour": 15,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-14T07:02:25.433524",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 9,
+        "file_path": "/var/data/project_docs",
+        "hour": 12,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-15T12:52:25.433527",
+        "user_id": "sys_admin",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 9,
+        "file_path": "/var/data/project_docs",
+        "hour": 16,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-13T22:24:25.433531",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 8,
+        "file_path": "/var/data/project_docs",
+        "hour": 9,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-14T07:25:25.433534",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 8,
+        "file_path": "/var/data/project_docs",
+        "hour": 12,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-17T13:24:25.433537",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 10,
+        "file_path": "/var/data/project_docs",
+        "hour": 14,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-13T04:23:25.433539",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 2,
+        "file_path": "/var/data/project_docs",
+        "hour": 16,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-13T18:34:25.433542",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 2,
+        "file_path": "/var/data/project_docs",
+        "hour": 10,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-13T08:37:25.433545",
+        "user_id": "hr_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 5,
+        "file_path": "/var/data/project_docs",
+        "hour": 12,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-15T15:15:25.433548",
+        "user_id": "normal_emp",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 3,
+        "file_path": "/var/data/project_docs",
+        "hour": 16,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-19T07:27:25.433551",
+        "user_id": "dev_user",
+        "activity_type": "FILE_ACCESS",
+        "data_volume_mb": 9,
+        "file_path": "/var/data/project_docs",
+        "hour": 11,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-19T11:23:25.433554",
+        "user_id": "dev_user_leaving",
+        "activity_type": "DATA_EXFILTRATION",
+        "data_volume_mb": 5000,
+        "file_path": "/secure/db/customer_list.zip.enc",
+        "hour": 14,
+        "device": "USB_Mass_Storage",
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-19T11:23:25.433556",
+        "user_id": "hr_user_mistake",
+        "activity_type": "CLOUD_UPLOAD",
+        "data_volume_mb": 50,
+        "file_path": "salary_report_2025.xlsx",
+        "destination": "public_gdrive_link",
+        "content_tag": "PII_DETECTED",
+        "hour": 20,
+        "status": "allow"
+    },
+    {
+        "timestamp": "2025-12-19T11:23:25.433558",
+        "user_id": "sys_admin_angry",
+        "activity_type": "SYSTEM_COMMAND",
+        "command": "rm -rf /var/lib/vm_images/*",
+        "hour": 3,
+        "status": "execute"
+    }
+]
